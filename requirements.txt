@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+openai-whisper
+pillow
+numpy
+python-dotenv
+groq
+fastapi
+openai
+
