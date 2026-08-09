@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+openai-whisper
+numpy
+python-dotenv
+groq
+fastapi
+openai
