@@ -38,3 +38,17 @@ PlantDocBot is a professional, AI-powered monolithic application for identifying
 - **Light Theme:** Enforced professional white background via config.
 
 ---
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Python
+- **Deep Learning:** PyTorch, ResNet50
+- **AI / LLM:** Groq API
+- **Speech Recognition:** OpenAI Whisper
+- **Web Framework:** Streamlit
+- **API Framework:** FastAPI
+- **Datasets:** PlantVillage, PlantDoc
+- **Additional Tools:** FFmpeg, Git, GitHub
+
+---
+
