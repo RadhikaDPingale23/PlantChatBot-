@@ -80,3 +80,13 @@ streamlit run app.py
 ```
 
 ---
+
+
+## 🎯 Project Information
+
+- **Project Name:** PlantDocBot – AI Plant Disease Diagnosis
+- **Internship:** Infosys Springboard Internship
+- **Mentor:** Mahaprasad Jena
+- **Developed By:** Radhika Pingale
+
+---
