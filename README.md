@@ -52,3 +52,22 @@ PlantDocBot is a professional, AI-powered monolithic application for identifying
 
 ---
 
+
+## 🔄 How It Works
+
+PlantDocBot supports three different diagnosis modes:
+
+### 📷 Image Diagnosis
+
+Upload a plant leaf image → Image preprocessing → ResNet50 model → Disease prediction → Confidence score → Disease information
+
+### 🎤 Voice Diagnosis
+
+Upload an audio file → OpenAI Whisper → Speech-to-text → Groq API → AI-generated response
+
+### 💬 Text Diagnosis
+
+Enter plant symptoms  → Groq API → Symptom analysis → AI-generated response
+
+---
+
