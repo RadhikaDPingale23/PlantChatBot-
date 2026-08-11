@@ -71,3 +71,12 @@ Enter plant symptoms  → Groq API → Symptom analysis → AI-generated respons
 
 ---
 
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
